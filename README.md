@@ -21,7 +21,7 @@ This project is in notebook format. It was written using jupyter notebook.
 
 # Getting started
 
-1. Download the csv file from [FER2013 dataset](www.kaggle.com/deadsis 78.54kull7/fer2013)
+1. Download the csv file from [FER2013 dataset](www.kaggle.com/deadskull7/fer2013)
 2. No need to train the model , already trained weights saved in ```model.h5 file```
 3. If you want to re-train the model or update it you'll find it in the ```learn_emotion.ipynb``` file.
 4. To load and test individual image you will find a GUI in ```GUI.ipynb``` file.
